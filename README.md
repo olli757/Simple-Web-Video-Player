@@ -1,2 +1,2 @@
 # omoens-video.github.io
-simple web player
+simple web video player showing a video with subtitles using a VTT file.
